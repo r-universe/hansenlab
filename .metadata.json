@@ -1,17 +1,5 @@
 [
   {
     "package": "bnbc"
-  },
-  {
-    "package": "bsseq"
-  },
-  {
-    "package": "minfi"
-  },
-  {
-    "package": "mpra"
-  },
-  {
-    "package": "yamss"
   }
 ]
