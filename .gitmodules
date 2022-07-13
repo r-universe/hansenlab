@@ -8,3 +8,23 @@
 	url = https://github.com/hansenlab/bnbc
 	shallow = true
 	registered = true
+[submodule "bsseq"]
+	path = bsseq
+	url = https://github.com/hansenlab/bsseq
+	shallow = true
+	registered = true
+[submodule "minfi"]
+	path = minfi
+	url = https://github.com/hansenlab/minfi
+	shallow = true
+	registered = true
+[submodule "mpra"]
+	path = mpra
+	url = https://github.com/hansenlab/mpra
+	shallow = true
+	registered = true
+[submodule "yamss"]
+	path = yamss
+	url = https://github.com/hansenlab/yamss
+	shallow = true
+	registered = true
