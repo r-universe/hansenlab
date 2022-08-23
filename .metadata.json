@@ -12,6 +12,12 @@
     "package": "mpra"
   },
   {
+    "package": "spqn"
+  },
+  {
+    "package": "tricycle"
+  },
+  {
     "package": "yamss"
   }
 ]

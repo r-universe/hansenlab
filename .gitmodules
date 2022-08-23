@@ -23,6 +23,16 @@
 	url = https://github.com/hansenlab/mpra
 	shallow = true
 	registered = true
+[submodule "spqn"]
+	path = spqn
+	url = https://github.com/hansenlab/spqn
+	shallow = true
+	registered = true
+[submodule "tricycle"]
+	path = tricycle
+	url = https://github.com/hansenlab/tricycle
+	shallow = true
+	registered = true
 [submodule "yamss"]
 	path = yamss
 	url = https://github.com/hansenlab/yamss
