@@ -13,18 +13,18 @@
 	url = https://github.com/hansenlab/bsseq
 	shallow = true
 	registered = true
-[submodule "minfi"]
-	path = minfi
-	url = https://github.com/hansenlab/minfi
-	shallow = true
-	registered = true
-[submodule "mpra"]
-	path = mpra
-	url = https://github.com/hansenlab/mpra
+[submodule "spqn"]
+	path = spqn
+	url = https://github.com/hansenlab/spqn
 	shallow = true
 	registered = true
 [submodule "tricycle"]
 	path = tricycle
 	url = https://github.com/hansenlab/tricycle
+	shallow = true
+	registered = true
+[submodule "yamss"]
+	path = yamss
+	url = https://github.com/hansenlab/yamss
 	shallow = true
 	registered = true
