@@ -18,6 +18,16 @@
 	url = https://github.com/hansenlab/minfi
 	shallow = true
 	registered = true
+[submodule "mpra"]
+	path = mpra
+	url = https://github.com/hansenlab/mpra
+	shallow = true
+	registered = true
+[submodule "spqn"]
+	path = spqn
+	url = https://github.com/hansenlab/spqn
+	shallow = true
+	registered = true
 [submodule "tricycle"]
 	path = tricycle
 	url = https://github.com/hansenlab/tricycle
