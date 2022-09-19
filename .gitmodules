@@ -13,9 +13,9 @@
 	url = https://github.com/hansenlab/bsseq
 	shallow = true
 	registered = true
-[submodule "spqn"]
-	path = spqn
-	url = https://github.com/hansenlab/spqn
+[submodule "minfi"]
+	path = minfi
+	url = https://github.com/hansenlab/minfi
 	shallow = true
 	registered = true
 [submodule "tricycle"]
