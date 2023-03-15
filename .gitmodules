@@ -3,19 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "mpra"]
-	path = mpra
-	url = https://github.com/hansenlab/mpra
-	shallow = true
-	registered = true
-[submodule "yamss"]
-	path = yamss
-	url = https://github.com/hansenlab/yamss
-	shallow = true
-	registered = true
-[submodule "minfi"]
-	path = minfi
-	url = https://github.com/hansenlab/minfi
+[submodule "bnbc"]
+	path = bnbc
+	url = https://github.com/hansenlab/bnbc
 	shallow = true
 	registered = true
 [submodule "bsseq"]
@@ -23,18 +13,28 @@
 	url = https://github.com/hansenlab/bsseq
 	shallow = true
 	registered = true
+[submodule "minfi"]
+	path = minfi
+	url = https://github.com/hansenlab/minfi
+	shallow = true
+	registered = true
+[submodule "mpra"]
+	path = mpra
+	url = https://github.com/hansenlab/mpra
+	shallow = true
+	registered = true
 [submodule "spqn"]
 	path = spqn
 	url = https://github.com/hansenlab/spqn
 	shallow = true
 	registered = true
-[submodule "bnbc"]
-	path = bnbc
-	url = https://github.com/hansenlab/bnbc
-	shallow = true
-	registered = true
 [submodule "tricycle"]
 	path = tricycle
 	url = https://github.com/hansenlab/tricycle
+	shallow = true
+	registered = true
+[submodule "yamss"]
+	path = yamss
+	url = https://github.com/hansenlab/yamss
 	shallow = true
 	registered = true

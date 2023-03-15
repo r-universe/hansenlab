@@ -1,23 +1,23 @@
 [
   {
-    "package": "mpra"
-  },
-  {
-    "package": "yamss"
-  },
-  {
-    "package": "minfi"
+    "package": "bnbc"
   },
   {
     "package": "bsseq"
   },
   {
+    "package": "minfi"
+  },
+  {
+    "package": "mpra"
+  },
+  {
     "package": "spqn"
   },
   {
-    "package": "bnbc"
+    "package": "tricycle"
   },
   {
-    "package": "tricycle"
+    "package": "yamss"
   }
 ]
